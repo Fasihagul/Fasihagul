@@ -5,7 +5,7 @@ I'm a passionate web developer with a focus on building efficient, scalable, and
 
 ### Tech Stack
 - Languages: HTML, CSS, JavaScript (ES5/ES6+)
-- Frameworks & Libraries: React, Node.js, Bootstrap
+- Frameworks & Libraries: Bootstrap
 - Version Control: Git, GitHub
 - Other Skills: ESN, ESN-HTML basics
 
